@@ -6,4 +6,4 @@ xsock is a simple tcp data transfer tool on Windows and Linux, modify from https
 Visual Studio 2008
 
 ## Linux Building
-    make
+    $ make
